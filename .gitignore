@@ -1,0 +1,35 @@
+# libraries
+*.a
+*.lib
+*.dylib
+*.dll
+*.framework
+
+# executables
+*.exe
+
+# objects
+*.o
+*.obj
+
+# OS X
+.DS_Store
+
+# Xcode
+xcuserdata/
+
+# Visual Studio
+.vs/
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.aps
+*.pdb
+*.opendb
+*.vc.db
+debug/
+release/
+
+# references
+!dependencies/*.dll
